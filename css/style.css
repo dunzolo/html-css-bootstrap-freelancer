@@ -27,3 +27,7 @@ header{
 /* fine header */
 
 /* inizio main */
+.container-medium{
+    width: 80%;
+    margin: 0 auto;
+}
