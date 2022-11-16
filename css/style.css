@@ -8,6 +8,14 @@
     background-color: red;
 }
 
+.background-green{
+    background-color: #1ABC9C;
+}
+
+.border-black{
+    border: 1px solid black;
+}
+
 /* inizio header */
 header{
     height: 80px;
@@ -16,3 +24,6 @@ header{
     display: flex;
     align-items: center;
 }
+/* fine header */
+
+/* inizio main */
