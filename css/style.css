@@ -16,6 +16,14 @@
     background-color: #2C3E50;
 }
 
+.background-white{
+    background-color: white;
+}
+
+.background-black{
+    background-color: black;
+}
+
 .border-black{
     border: 1px solid black;
 }
@@ -44,8 +52,6 @@ header{
     height: 5px;
     width: 100%;
     max-width: 15%;
-    opacity: 1;
-    background-color: white;
     border-radius: 3px;
 }
 /* fine main */
