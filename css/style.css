@@ -35,6 +35,19 @@ header{
     width: 80%;
     margin: 0 auto;
 }
+
+.avatar{
+    width: 200px;
+}
+
+.line{
+    height: 5px;
+    width: 100%;
+    max-width: 15%;
+    opacity: 1;
+    background-color: white;
+    border-radius: 3px;
+}
 /* fine main */
 
 /* inizio footer */
