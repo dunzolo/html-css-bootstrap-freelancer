@@ -58,6 +58,15 @@ header{
     max-width: 15%;
     border-radius: 3px;
 }
+
+.border-none{
+    border: none;
+    border-radius: 0px;
+}
+
+.border-bottom-grey{
+    border-bottom: 1px solid grey
+}
 /* fine main */
 
 /* inizio footer */
